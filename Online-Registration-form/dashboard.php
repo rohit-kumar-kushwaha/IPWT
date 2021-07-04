@@ -102,9 +102,9 @@
 
     <div class="abc">
         <div class="form-header">
-            <h1>T.P Varma College, Shikarpur, Narkatiaganj (West Champaran)</h1>
-            <h3>Admission Form for BCA (Bachelor of Computer Application) Hons. </h2>
-                <h5>(A Recognised T.D.C Vocational Course of <strong>B.R.A.Bihar University Muzaffarpur</strong>)</h5>
+            <h1>Thinking Byte Institution, Lal Bazar, Bettiah (West Champaran)</h1>
+            <h3>Admission Form for Vocational Course (BCA, BBA) Hons. </h2>
+                <h5>(A Recognised T.D.C Vocational Course of <strong>Thinking Byte Bettiah</strong>)</h5>
         </div>
         <div class="form">
             <form action="registration-form.php" name="regform" id="admissionform" method="POST" enctype="multipart/form-data" onsubmit='return validate_form()'>
